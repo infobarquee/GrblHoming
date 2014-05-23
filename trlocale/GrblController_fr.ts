@@ -38,7 +38,7 @@
     <message>
         <location filename="../gcode.cpp" line="51"/>
         <source>-Is correct port chosen?</source>
-        <translation>- le port choisi est-il correct ?</translation>
+        <translation>- le port choisit est-il correct ?</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="52"/>
@@ -101,7 +101,7 @@
         <location filename="../gcode.cpp" line="756"/>
         <source>Error reading data from COM port
 </source>
-        <translation>Erreur de lecture des données dur le port série</translation>
+        <translation>Erreur de lecture des données sur le port série</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="564"/>
@@ -227,7 +227,7 @@
         <location filename="../gcode.cpp" line="1173"/>
         <source>Gave up waiting for OK
 </source>
-        <translation>Fin d&apos;attent Ok\n</translation>
+        <translation>Fin d&apos;attente Ok\n</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="1192"/>
@@ -307,22 +307,22 @@
     <message>
         <location filename="../gcode.cpp" line="1854"/>
         <source>Options specify use mm but Grbl parser set for inches. Fixing.</source>
-        <translation>Vous utiliser les mm alors que l&apos;analyse indique des pouces. Corriger</translation>
+        <translation>Vous utilisez les mm alors que l&apos;analyse indique des pouces. Corrigez</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="1859"/>
         <source>Options specify use inches but Grbl parser set for mm. Fixing.</source>
-        <translation>Vous devez utiliser les pouces alors que l&apos;analyse indique des mm. Corriger</translation>
+        <translation>Vous devez utiliser les pouces alors que l&apos;analyse indique des mm. Corrigez</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="1873"/>
         <source>Options specify use mm but Grbl reporting set for inches. Fixing.</source>
-        <translation>Vous utiliser les mm alors que Grbl donne despouces. Corriger</translation>
+        <translation>Vous utilisez les mm alors que Grbl donne des pouces. Corriger</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="1878"/>
         <source>Options specify use inches but Grbl reporting set for mm. Fixing.</source>
-        <translation>Vous utiliser les pouces alors que Grbl donne des mm. Corriger</translation>
+        <translation>Vous utilisez les pouces alors que Grbl donne des mm. Corriger</translation>
     </message>
     <message>
         <location filename="../gcode.cpp" line="1914"/>
@@ -370,7 +370,7 @@
     <message>
         <location filename="../log4qt/appenderskeleton.cpp" line="137"/>
         <source>Activation of appender &apos;%1&apos; that requires layout and has no layout set</source>
-        <translation>Activation de  &apos;Appender&apos;  &apos;%1&apos;  lequel nécessite une mise en page  non réalisée ! </translation>
+        <translation>Activation de  &apos;Appender&apos;  &apos;%1&apos;  lequel nécessite une mise en page non réalisée ! </translation>
     </message>
     <message>
         <location filename="../log4qt/appenderskeleton.cpp" line="228"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="../log4qt/helpers/factory.cpp" line="375"/>
         <source>Unable to set property value on object</source>
-        <translation>Impossible d&apos;inialiser la valeur de la propriété de l&apos;objet.</translation>
+        <translation>Impossible d&apos;initialiser la valeur de la propriété de l&apos;objet.</translation>
     </message>
     <message>
         <location filename="../log4qt/helpers/factory.cpp" line="381"/>
@@ -813,7 +813,7 @@ Your settings have been changed to enable this mode. Why? Because it provides th
 What does this mean to you? Arc commands will now run smoother and faster than before, which may cause your spindle to work slightly harder, so please run some tests first. Alternately, go to the Options dialog and manually disable Aggressive Preload</source>
         <translation>Vous semblez avoir la dernière version du contrôleur Grbl. Soyez conscient que depuis la version 3.4 le comportement par défaut de l&apos;envoi de commandes à Grbl a été modifié pour les envoyer aussi vite que possible (mode de précharge agressif). 
 
-Vos paramètres ont été modifiés pour permettre ce mode. Pourquoi? Parce qu&apos;il permet une utilisation la plus optimale de Grbl et réduit considérablement le temps de terminer un travail typique. Qu&apos;est-ce que cela signifie pour vous ? Maintenant les commandes d&apos;arc vont être plus continues et plus rapides qu&apos;auparavant, ce qui peut amener votre broche à travailler un peu plus vite, s&apos;il vous plaît donc faire quelques tests en premier. Sinon, passez à la boîte de dialogue Options et désactiver manuellement la  précharge agressive</translation>
+Vos paramètres ont été modifiés pour permettre ce mode. Pourquoi? Parce qu&apos;il permet une utilisation la plus optimale de Grbl et réduit considérablement le temps de terminer un travail typique. Qu&apos;est-ce que cela signifie pour vous ? Maintenant les commandes d&apos;arc vont être plus continues et plus rapides qu&apos;auparavant, ce qui peut amener votre broche à travailler un peu plus vite, s&apos;il vous plaît donc faire quelques tests en premier. Sinon, passez à la boîte de dialogue Options et désactivez manuellement la  précharge agressive</translation>
     </message>
     <message>
         <source>Wish to &quot;zero position&quot; before beginning?</source>
